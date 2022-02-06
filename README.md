@@ -2,6 +2,7 @@
 
 [![Sean's github stats](https://github-readme-stats-yoshimario.vercel.app/api?username=yoshimario&theme=prussian&show_icons=true)](https://github.com/yoshimario/github-readme-stats)
 [![Top Langs](https://github-readme-stats-yoshimario.vercel.app/api/top-langs/?username=yoshimario&theme=prussian)](https://github.com/yoshimario/github-readme-stats)
+[![Spotify](https://novatorem-gilt-eight.vercel.app/api/spotify)](https://open.spotify.com/user/prisondude)
 <!--
 **yoshimario/yoshimario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
