@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hi 👋, I'm Sean Kipinä</h1>
-<h3 align="center">A learning developer from USA.</h3>
+<h3 align="center">A learning developer from Finland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshimario&label=Profile%20views&color=0e75b6&style=flat" alt="yoshimario" /> </p>
 
