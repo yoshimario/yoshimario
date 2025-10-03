@@ -32,7 +32,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoshimario&theme=prussian" alt="yoshimario" /></p>
 
 
-[![Spotify](https://novatorem-gilt-eight.vercel.app/api/spotify)](https://open.spotify.com/user/prisondude)
 <!--
 **yoshimario/yoshimario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
